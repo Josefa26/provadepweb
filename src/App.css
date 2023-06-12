@@ -1,0 +1,21 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1.title{
+background-color: #1E90FF;
+color: beige;
+padding: 20px;
+}
+
+body {
+  width: 100%;
+  text-align: center;
+  background: linear-gradient(180deg, rgb(63, 131, 255), rgb(0, 62, 120));
+  background-attachment: fixed;
+  color: white;
+  list-style: none;
+}
